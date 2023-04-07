@@ -1,2 +1,2 @@
 My list of random recipes
-https://github.com/codetiv/TheCookBook/blob/main/theCookBook.html
+Collective ideas on how to organize my meals maybe change it to a random generator
